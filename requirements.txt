@@ -1,0 +1,7 @@
+streamlit>=1.35
+pandas>=2.0
+plotly>=5.20
+pytest>=8.0
+python-dotenv>=1.0
+# Added in Phase 5 (AI provider layer), install then:
+# google-genai
